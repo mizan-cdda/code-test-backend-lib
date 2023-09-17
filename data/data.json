@@ -1,0 +1,6 @@
+[{"title": "The Alchemist", "author": "Paulo Coelho", "isbn": "978-0062315006", "quantity": 10, "patrons": ["test", "test2"]}, {"title": "", "author": "", "isbn": "978-0062315007", "quantity": "", "patrons": ""}]"Paulo Coelho",
+    "isbn": "978-0062315007",
+    "quantity": 9,
+    "patrons": ["Sonic2", "Sonic1"]
+  }
+]
